@@ -79,7 +79,7 @@ export const Page2=()=> {
            
             <div className="bg-gray-100 h-100 mt-10 rounded-lg grid grid-cols-2">
                 <img src="goji.png" className="h-16 ml-36 mt-8 mb-8" /> 
-                <div className="mt-14 ml-60">
+                <div className="mt-14 ml-80">
                     <a href="mailto:gojihealthinfo@gmail.com" className="bg-blue-100 p-4 hover:bg-blue-200 rounded-lg">Contact sales</a> 
                 </div>
             </div>
