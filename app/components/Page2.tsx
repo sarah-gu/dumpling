@@ -2,7 +2,7 @@ const background = "bg-backgroundColorPrimary";
 
 export const Page2=()=> {
     return (
-        <div className={`relative min-h-screen flex flex-col bg-white`}>
+        <div className="relative min-h-screen flex flex-col bg-white">
             <div className="mt-40 container max-w-screen-xl flex justify-center items-center grid gap-12 grid-cols-3 ml-24 mr-24">
                 <div>
                     <div className="flex flex-row">
